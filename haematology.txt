@@ -20,12 +20,12 @@ Aside from active therapy, what supportive therapies should be considered in mul
 
 ## Haematology, Multiple Myeloma %%
 What is the staging system for multiple myeloma & associated median survival?
-- Stage 1, B2-microglobulin < 3.5 mg/L, albumin > 35 g/L (62 months)
-- Stage 2, Not stage 1 or stage 3 (44 months)
-- Stage 3, B2-microglobulin > 5.5 mg/L (29 months)
+- Stage 1: B2-microglobulin < 3.5 mg/L, albumin > 35 g/L (62 months)
+- Stage 2: Not stage 1 or stage 3 (44 months)
+- Stage 3: B2-microglobulin > 5.5 mg/L (29 months)
 
 ## Haematology, Anaemia %%
-What are your diagnostic approach for an anaemia?
+What is your diagnostic approach for an anaemia?
 - FBE, MCV, Hct, reticulocyte count
 - Haematinic screen & B12/Folate
 - Coagulation profile
