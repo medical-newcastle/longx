@@ -6,3 +6,16 @@ What are the management issues of renal impairment?
 - Pruritus
 - Carpal tunnel syndrome & neuropathies
 - Dialysis planning
+
+## Nephrology, Chronic Renal Impairment %%
+What are the treatment targets of anaemia in renal impairment?
+- Haemoglobin > 100
+- Ferritin > 200
+- Transferrin saturation 20%
+
+## Nephrology, Chronic Renal Impairment %%
+What are the treatment targets of hyperphosphataemia & methods of treatment in renal impairment?
+- Targets are serum phosphate of 1.13 - 1.78 mmol/L
+- Low phosphate diet to 900 mg/day, avoid processed foods, beans, nuts, some dairy/protein
+- Phosphate binders, calcium based or sevelamer/lanthanum
+- Frequent/prolonged/altered diasylate dialysis can be considered in select patients
