@@ -1,0 +1,37 @@
+## Haematology, Multiple Myeloma %%
+Signs of poor prognosis in multiple myeloma?
+- Cytogenetic abnormalities, del13q, t(4:14), del17p
+- Anaemia, Hb < 85
+- Hypercalcaemia
+- High M protein production rate
+- Acute/Chronic renal failure
+- Low serum albumin, 30 g/L
+- Elevated B2-microglobulin, 5.5 mg/L
+- Elevated LDH levels
+- Age over 70 years old
+- Poor performance status
+
+## Haematology, Multiple Myeloma %%
+Aside from active therapy, what supportive therapies should be considered in multiple myeloma?
+- Bisphosphonates
+- Radiotherapy for painful bony lesions
+- IVIG for recurrent infections
+- Transfusion for anaemia/pancytopaenia
+
+## Haematology, Multiple Myeloma %%
+What is the staging system for multiple myeloma & associated median survival?
+- Stage 1, B2-microglobulin < 3.5 mg/L, albumin > 35 g/L (62 months)
+- Stage 2, Not stage 1 or stage 3 (44 months)
+- Stage 3, B2-microglobulin > 5.5 mg/L (29 months)
+
+## Haematology, Anaemia %%
+What are your diagnostic approach for an anaemia?
+- FBE, MCV, Hct, reticulocyte count
+- Haematinic screen & B12/Folate
+- Coagulation profile
+- Haemolytic screen (haptoglobin, LDH, bilirubin, direct Coomb's, cold agglutinins)
+- ESR
+- Renal function ± erythropoietin levels
+- EPG, IEPG
+- TSH
+- Bone marrow
