@@ -1,0 +1,66 @@
+## Rheumatology, Rheumatoid Arthritis %%
+Classes of treatments for Rheumatoid Arthritis?
+- Disease Modifying Agents:
+-- Methotrexate
+-- Leflunomide
+- Biologics:
+-- TNF-alpha inhibitors: Infliximab, adalimumab, golimumab, certolizumab
+-- CTLA-protein: Abatacept
+-- IL6 inhibitor: Tocolizumab
+-- CD20 MAb: Rituximab
+-- JAK kinase inhibitor: Baracitinib, Tofacitinib
+
+## Rheumatology, Rheumatoid Arthritis %%
+Side effects of treatments for Rheumatoid Arthritis?
+- TNF: lymphoma, demyelination, psoriasis, pneumonitis
+- IL6: Neutropaenia, perforated diverticula
+- JAK: Transaminitis, shingles, thrombosis
+
+## Rheumatology, Biologics %%
+What work up should be done pre-biologic therapy?
+- Hepatitis B serology
+- Tuberculosis testing
+- Hepatitis C testing
+- Human Immunodeficiency Virus testing
+
+## Rheumatology, Rheumatoid Arthritis %%
+How do we assess the effectiveness of therapy in Rheumatoid Arthritis?
+- Disease Activity Score in 28 joints (DAS28)
+
+## Rheumatology, Systemic Lupus Erythematous %%
+What are some key questions in the history of S.L.E.?
+- Rash
+- Oral ulceration
+- Proteinuria, red cell casts
+- Autoimmune haemolytic anaemia
+- Leucopenia
+- Miscarriages, thromboses
+- Seizures, psychosis
+
+## Rheumatology, Systemic Lupus Erythematous %%
+What tests are useful in the assessment of new S.L.E.?
+- FBE: anaemia, +ve Coombs, leucopenia, thrombocytopenia
+- Clotting: Lupus anticoagulant, anti-cardiolipin, beta-2 microglobulin
+- Renal: urine analysis
+- CNS: Magnetic Resonance Imaging, lumbar puncture
+- Serology: anti-doubleStranded DNA, anti-SSA/SSB, complement, anti-histone, Sm
+- Cardiac: Echocardiogram
+
+## Rheumatology, Systemic Lupus Erythematous %%
+What are the management principles of S.L.E.?
+- Non-steroidal anti-inflammatories & hydroxychloroquine for arthralgias
+- Azathioprine & methotrexate for serositis
+- Pulsed methylprednisolone & cyclosporin for lupus nephritis
+- Warfarin for anti-phospholipid syndrome
+- Calcium channel blocker & avoidance for Raynaud's phenomena
+
+## Rheumatology, Systemic Lupus Erythematous %%
+What are the long-term planning issues around S.L.E.?
+- Pregnancy planning, anti-SSA/SSB
+- Anticoagulation
+- Sun exposure
+- Osteoporosis risk
+- Cardiovascular risk: Lipids, HbA1c
+- Risk of cerebral lupus
+- Mental wellbeing in chronic disease
+- Malignancy screening
