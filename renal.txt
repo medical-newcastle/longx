@@ -6,6 +6,9 @@ What are the management issues of renal impairment?
 - Pruritus
 - Carpal tunnel syndrome & neuropathies
 - Dialysis planning
+- Bleeding risk, thrombosis risk
+- Gout, hyperuricaemia
+- Pancreatitis
 
 ## Nephrology, Chronic Renal Impairment %%
 What are the treatment targets of anaemia in renal impairment?
@@ -19,3 +22,18 @@ What are the treatment targets of hyperphosphataemia & methods of treatment in r
 - Low phosphate diet to 900 mg/day, avoid processed foods, beans, nuts, some dairy/protein
 - Phosphate binders, calcium based or sevelamer/lanthanum
 - Frequent/prolonged/altered diasylate dialysis can be considered in select patients
+
+## Nephrology, Chronic Renal Impairment %%
+What types of renal bone disease exist?
+- Hyperparathyroid bone disease
+- Osteoporosis
+- Osteomalacia (aluminium binders)
+- Osteosclerosis
+- Adynamic bone disease
+
+## Nephrology, Chronic Renal Impairment %%
+What qualifies as nephrotic syndrome (from a patient's perspective)?
+- Frothy urine (severe proteinuria)
+- Swelling distally (Hypoalbuminaemia, peripheral oedema)
+- High "cholesterol" (Hyperlipidaemia)
+- Clots (Thrombotic propensity)
