@@ -13,7 +13,7 @@ Classes of treatments for Rheumatoid Arthritis?
 ## Rheumatology, Rheumatoid Arthritis %%
 Side effects of treatments for Rheumatoid Arthritis?
 - TNF: lymphoma, demyelination, psoriasis, pneumonitis
-- IL6: Neutropaenia, perforated diverticula
+- IL6: Hyperlipidaemia, neutropaenia, perforated diverticula
 - JAK: Transaminitis, shingles, thrombosis
 
 ## Rheumatology, Biologics %%
